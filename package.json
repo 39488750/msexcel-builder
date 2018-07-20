@@ -19,9 +19,9 @@
     "node": "*"
   },
   "dependencies": {
-    "xmlbuilder": "8.2.2",
-    "async": "2.1.2",
+    "archiver": "2.1.1",
+    "async": "2.1.2",   
     "fs-extra": "1.0.0",
-    "easy-zip": "0.0.4"
+    "xmlbuilder": "8.2.2"
   }
 }

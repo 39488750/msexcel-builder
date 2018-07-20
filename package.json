@@ -6,7 +6,7 @@
     "xlsx",
     "excel"
   ],
-  "version": "0.0.7",
+  "version": "0.0.8",
   "repository": {
     "type": "git",
     "url": "git://github.com/pofider/msexcel-builder.git"
@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "archiver": "2.1.1",
-    "async": "2.1.2",   
+    "async": "2.1.2",
     "fs-extra": "1.0.0",
     "xmlbuilder": "8.2.2"
   }
